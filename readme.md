@@ -1,4 +1,3 @@
-## Git Repository to examples
+## Example Repositorio Git
 
-> Repository to be used for git examples
-
+> Repositório usado na mentoria de porto digital para explicar git
